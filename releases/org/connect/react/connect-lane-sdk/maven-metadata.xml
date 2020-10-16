@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.connect.react</groupId>
+  <artifactId>connect-lane-sdk</artifactId>
+  <versioning>
+    <release>2.11.0</release>
+    <versions>
+      <version>2.11.0</version>
+    </versions>
+    <lastUpdated>20201016072945</lastUpdated>
+  </versioning>
+</metadata>
